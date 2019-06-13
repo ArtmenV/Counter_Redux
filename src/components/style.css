@@ -1,0 +1,27 @@
+.container {
+  background-color: silver;
+}
+.container__fluid {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin: 50px;
+  padding: 50px;
+}
+
+.inc {
+  background-color: green;
+  width: 100px;
+  height: 40px;
+  margin: 20px;
+}
+
+.dec {
+  background-color: red;
+  width: 100px;
+  height: 40px;
+  margin: 20px;
+}
+.title {
+  align-self: center
+}
